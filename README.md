@@ -175,6 +175,6 @@ Conduct salary audits and adjust pay in departments with significant gaps.
 Implement transparent compensation policies.
 
 Ensure Regulatory Compliance:
-Review salaries in the North region and adjust to meet the $90,000 minimum.
+Review salaries in all regions and adjust to meet the $90,000 minimum.
 Enhance Performance-Based Rewards:
 Consider additional incentives for top performers in underrepresented groups.
